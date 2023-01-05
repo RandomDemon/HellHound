@@ -4,7 +4,7 @@ This script takes an IP address you provide, and finds the:
 * City of origin
 * State/Province of origin
 * Country of origin
-* ISP (Internet Service Provider) for the address\
+* ISP (Internet Service Provider) for the address\\
 If you are trying to find the information of a website, you must first enter your command line and type
 ``` ping (Website or server address) ```
 For example, I'll try to ping the popular Minecraft server Hypixel:
