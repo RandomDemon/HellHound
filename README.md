@@ -5,6 +5,9 @@ This script takes an IP address you provide, and finds the:
 * State/Province of origin
 * Country of origin
 * ISP (Internet Service Provider) for the address\
+* Operating System the IP is hosted from
+* Device type the Ip is hosted from
+* Some other network info
 \
 If you are trying to find the information of a website, you must first enter your command line and type
 ``` ping (Website or server address) ```
