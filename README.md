@@ -1,4 +1,4 @@
-# IP Adress Info Grabber
+# HellHound IP Adress Info Grabber
 ## Info
 This script takes an IP address you provide, and finds the:
 * City of origin
